@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html{
+    font-size: 62.5%;
+}
+
+.mainSection{
+    width: 100vw;
+    height: 100vh;
+    background-color: red;
+}
+
+.section_1{
+    width: 100vw;
+    height: 50vh;
+    padding: 2rem;
+}
+.section_2{
+    text-align: center;
+    width: 100vw;
+    height: 50vh;
+    padding: 2rem;
+    display: table-cell;
+    vertical-align: middle;
+}
+.mainSection p{
+    font-size: 3rem;
+    color: white;
+}
+.mainSection h1{
+    font-size: 4rem;
+    margin-bottom: 3rem;
+    color: white;
+}
+.imgPok{
+    width: 40vw;
+    height: 40vh;
+}
